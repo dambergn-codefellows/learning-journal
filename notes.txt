@@ -1,0 +1,331 @@
+Codeacademy: jQuery
+Prework
+Nov 26, 2017 by 11:59pm	
+Click to test a different score 0	5	
+ 
+Connect with your Classmates
+Nov 26, 2017 by 11:59pm	
+Click to test a different score Complete	5	
+ 
+Customize Canvas
+Nov 26, 2017 by 11:59pm	
+Click to test a different score Complete	5	
+ 
+Read 01: Shay Howe's and Dale Sande's Intros to RWD, plus SMACCS readings
+Nov 26, 2017 by 11:59pm	
+Click to test a different score Complete	5	
+ 
+Setup of Your Laptop Dev Environment
+Nov 26, 2017 by 11:59pm	
+Click to test a different score Complete	5	
+ 
+Read 02: JS & jQ 293-325
+Nov 29, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+Code 00: Replace All Dots
+Dec 4, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ 
+Code 01: My Head is at the Wrong End
+Dec 4, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ 
+Code 02: Abbreviate a Two-Word Name
+Dec 4, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ 
+Lab 00: SMACSS
+Dec 4, 2017 by 6:29pm	
+Click to test a different score 2	12	
+ 
+ 
+Lab 00: ES6 Introduction
+Dec 4, 2017 by 6:29pm	
+Click to test a different score 8	12	
+ 
+ 
+Lab 01: Mobile First
+Dec 4, 2017 by 6:29pm	
+Click to test a different score 9	12	
+ 
+ 
+Lab 02: jQuery and the DOM
+Dec 4, 2017 by 6:29pm	
+Click to test a different score 9	12	
+ 
+ 
+Learning Journal Week 1
+Dec 4, 2017 by 6:29pm	
+Click to test a different score Complete	2	
+ 
+ 
+Comments	Close
+first journal entry.
+DambergN, Dec 4, 2017 at 7:09pm
+Awesome reflection, Nick!
+Madeline Stevens, Dec 5, 2017 at 4:52pm
+Read 03: JS & jQ pp 326-366
+Dec 4, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+Feedback: 1
+Dec 5, 2017 by 11:59pm	
+Click to test a different score Complete	5	
+ 
+Read 04: Handlebars
+Dec 6, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Review: Quiz I
+Dec 6, 2017 by 6:29pm	
+Click to test a different score 12.75	15	
+ 
+Learning Journal Week 02
+Dec 9, 2017 by 6:29pm	
+Click to test a different score Incomplete	2	
+ 
+Code 03: Insert Dashes
+Dec 11, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ 
+Code 04: Username Validation
+Dec 11, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ 
+Feedback: 2
+Dec 11, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+Lab 03: jQuery With Events
+Dec 11, 2017 by 6:29pm	
+Click to test a different score 13	12	
+ 
+ 
+Lab 04: Templating
+Dec 11, 2017 by 6:29pm	
+Click to test a different score 12	12	
+ 
+ 
+Review: Quiz II
+Dec 11, 2017 by 6:29pm	
+Click to test a different score 15	15	
+ 
+Read 06: REST
+Dec 13, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Read 05: JS / jQ pp 367-408 (AJAX & JSON)
+Dec 13, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Code 05: Validate PIN Code / Alternate Capitalization
+Dec 18, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ 
+Code 06: Nice Array
+Dec 18, 2017 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ 
+Feedback: 3
+Dec 18, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Lab 05: Form Building
+Dec 18, 2017 by 6:29pm	
+Click to test a different score 0	12	
+ 
+Lab 06: AJAX and JSON and WRRC
+Dec 18, 2017 by 6:29pm	
+Click to test a different score 9	12	
+ 
+ 
+Read 07: Intro to Node.js
+Dec 18, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+UI Challenge #1
+Dec 18, 2017 by 6:29pm	
+Click to test a different score 0	12	
+ 
+Read 08: Intro to SQL Links
+Dec 20, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Read 09: SQL Joins & Relations Links
+Dec 28, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Code 07: Disemvowel Trolls
+Dec 28, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Code 08: Format Words Into a Sentence
+Dec 28, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Feedback: 4
+Dec 28, 2017 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Lab 07: NodeJS, NPM, and Express
+Dec 28, 2017 by 6:29pm	
+Click to test a different score 7	12	
+ 
+ 
+Lab 08: SQL Intro and Postgres
+Dec 28, 2017 by 6:29pm	
+Click to test a different score 8	12	
+ 
+ 
+Learning Journal Week 04
+Dec 28, 2017 by 6:29pm	
+Click to test a different score Incomplete	2	
+ 
+Review: Quiz III
+Dec 28, 2017 by 6:29pm	
+Click to test a different score -	15	
+Code 09: Reversed String
+Jan 2 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ 
+Extra Credit - Full Stack CRUD from Scratch
+Jan 2 by 6:29pm	
+Click to test a different score -	0	
+Feedback: 5
+Jan 2 by 6:29pm	
+Click to test a different score -	5	
+Lab 09: SQL Joins & Relations
+Jan 2 by 6:29pm	
+Click to test a different score 12	12	
+ 
+ 
+Learning Journal Week 05
+Jan 2 by 6:29pm	
+Click to test a different score Incomplete	2	
+ 
+Read 10: JS & jQ pp 528-543
+Jan 2 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Review: Quiz IV
+Jan 2 by 6:29pm	
+Click to test a different score -	15	
+ Read 11: Heroku & Deployment
+Jan 4 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Code 10: Functional Programming
+Jan 8 by 6:29pm	
+Click to test a different score Complete	15	
+ 
+ 
+ Code 11: Sum of Odd Cubed Numbers
+Jan 8 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ 
+ Feedback: 6
+Jan 8 by 6:29pm	
+Click to test a different score Complete	5	
+ 
+ Lab 10: Functional Programming
+Jan 8 by 6:29pm	
+Click to test a different score 12	12	
+ 
+ 
+Lab 11: Start the Booklist App
+Jan 8 by 6:29pm	
+Click to test a different score Online Url Submission	12	
+ 
+Learning Journal Week 06
+Jan 8 by 6:29pm	
+Click to test a different score Incomplete	2	
+ 
+ Read 12: MVC blog post, History API, Page.js Readme
+Jan 8 by 6:29pm	
+Click to test a different score Incomplete	5	
+ 
+Review: Quiz V
+Jan 8 by 6:29pm	
+Click to test a different score -	15	
+UI Challenge #2
+Jan 8 by 6:29pm	
+Click to test a different score -	12	
+Read 13: Middleware
+Jan 10 by 6:29pm	
+Click to test a different score -	5	
+Review: Quiz VI
+Jan 14 by 11:59pm	
+Click to test a different score -	15	
+Code 12: Highest Scoring Word
+Jan 15 by 6:29pm	
+Click to test a different score -	5	
+Code 13: Mutate My Strings
+Jan 15 by 6:29pm	
+Click to test a different score -	5	
+Discuss: Project Ideas & APIs
+Jan 15 by 6:29pm	
+Click to test a different score -	5	
+Feedback: 7
+Jan 15 by 6:29pm	
+Click to test a different score -	5	
+Lab 12: Extend the Booklist App
+Jan 15 by 6:29pm	
+Click to test a different score -	12	
+Lab 13: Booklist App with API
+Jan 15 by 6:29pm	
+Click to test a different score -	12	
+Learning Journal Week 07
+Jan 15 by 6:29pm	
+Click to test a different score -	2	
+Read 14: Articles on Diversity
+Jan 15 by 6:29pm	
+Click to test a different score -	5	
+Code Fellows 401 Entrance Exam
+Jan 15 by 11:59pm	
+Click to test a different score -	100	
+Project: Report #1
+Jan 17 by 6:29pm	
+Click to test a different score -	3	
+Project: Report #2
+Jan 18 by 8:59am	
+Click to test a different score -	3	
+Project: Report #3
+Jan 20 by 6:29pm	
+Click to test a different score -	3	
+Feedback: 8
+Jan 22 by 6:29pm	
+Click to test a different score -	5	
+Project: Report #4
+Jan 22 by 6:29pm	
+Click to test a different score -	3	
+Project: Report #5
+Jan 23 by 6:29pm	
+Click to test a different score -	3	
+Project: Report #7
+Jan 23 by 6:29pm	
+Click to test a different score -	3	
+Project: Report #6
+Jan 24 by 8:59am	
+Click to test a different score -	3	
+Final Project - Group Submission
+Jan 27 by 8:59am	
+Click to test a different score -	50	
+Final Project - Individual Submission
+Jan 27 by 8:59am	
+Click to test a different score -	50	
+Project: Report #8
+Jan 27 by 6:29pm	
+Click to test a different score -	3	
+Career Development: Attend a Meetup
+Jan 27 by 11:59pm	
+Click to test a different score -	25	
